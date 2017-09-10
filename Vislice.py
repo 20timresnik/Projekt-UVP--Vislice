@@ -150,4 +150,3 @@ if __name__ == "__main__":
     a = Hangman(nakljucna_beseda(slovar_tem, tema), okno)
     center_window()
     okno.mainloop()
-
