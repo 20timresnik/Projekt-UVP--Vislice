@@ -117,6 +117,7 @@ class Hangman:
             messagebox.showinfo("Zmaga!", "Zmagali ste!")
         if condition is 'P':
             messagebox.showinfo("Poraz... ", "Izgubili ste. \nFraza, ki ste jo iskali, je bila: " + self.word)
+        exit()
 
 class Settings:
     def __init__(self):
