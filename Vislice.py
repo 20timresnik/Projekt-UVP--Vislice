@@ -5,7 +5,7 @@ from random import randint
 slovar_tem = {"Harry Potter osebe": ["Albus Dumbledore", "Hermione Granger", "Lord Voldemort", "Hagrid", "Bellatrix Lestrange", "Draco Malfoy", "Minerva McGonagall", "Severus Snape", "Dolores Jane Umbridge", "Fred Weasley", "Ronald Weasley"],
               "Evropske države": ["Nemčija", "Avstrija", "Italija", "Francija", "Španija", "Slovenija", "Belgija", "Nizozemska", "Portugalska", "Švedska", "Norveška", "Finska", "Poljska", "Estonija","Madžarska", "Češka"],
               "Matematične veje": ["Analiza", "Linearna Algebra", "Diskretna Matematika", "Topologija", "Didaktika", "Logika in Množice", "Numerične Metode", "Verjetnost in statistika"],
-              "Evropski nogometni veleklubi": ["Barcelona", "Real Madrid", "Manchester United", "Juventus", "Paris Saint Germain", "Athletico Madrid", "Liverpool", "Borrusia Dortmund", "Bayern Munchen", "Monaco", "Chelsea"]
+              "Evropski nogometni klubi": ["Barcelona", "Real Madrid", "Manchester United", "Juventus", "Paris Saint Germain", "Athletico Madrid", "Liverpool", "Borrusia Dortmund", "Bayern Munchen", "Monaco", "Chelsea"]
               }
 
 
